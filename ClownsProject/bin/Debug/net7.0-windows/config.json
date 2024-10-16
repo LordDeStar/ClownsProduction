@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": 
+  {
+    "DefaultConnection": "server=localhost;user=root;password=1234;database=mortalkombat;",
+    "PostgreConnection":  "server=localhost;user=pgadmin;password=1234;database="
+  }
+}

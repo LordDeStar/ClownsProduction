@@ -1,0 +1,552 @@
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.exe
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.deps.json
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.runtimeconfig.json
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.pdb
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\DevExpress.Mvvm.UI.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\DevExpress.Mvvm.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject_MarkupCompile.cache
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject_MarkupCompile.lref
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.g.resources
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.AssemblyInfoInputs.cache
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.AssemblyInfo.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.csproj.CopyComplete
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\refint\ClownsProject.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.pdb
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.genruntimeconfig.cache
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ref\ClownsProject.dll
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addPostPage.g.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addStatusPage.g.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\authPage.g.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrCompanyPage.g.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrEmployPage.g.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrPage.g.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addPostPage.baml
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addStatusPage.baml
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\authPage.baml
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrCompanyPage.baml
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrEmployPage.baml
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrPage.baml
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskPage.g.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskPage.baml
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\ProjectUserControl.g.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskControll.g.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\ProjectUserControl.baml
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskControll.baml
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showProjectsPage.g.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showProjectsPage.baml
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\adminPage.g.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\adminPage.baml
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createProject.g.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createProject.baml
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\projectPage.g.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\projectPage.baml
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createTaskPage.g.cs
+C:\Users\Никита\source\repos\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createTaskPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.exe
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.deps.json
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.runtimeconfig.json
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.pdb
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\DevExpress.Mvvm.UI.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\DevExpress.Mvvm.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.csproj.AssemblyReference.cache
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addPostPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addStatusPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\adminPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\authPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createProject.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createTaskPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\projectPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\ProjectUserControl.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrCompanyPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrEmployPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showProjectsPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskControll.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject_MarkupCompile.cache
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject_MarkupCompile.lref
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addPostPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addStatusPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\adminPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\authPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createProject.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createTaskPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\projectPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\ProjectUserControl.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrCompanyPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrEmployPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showProjectsPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskControll.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.g.resources
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.AssemblyInfoInputs.cache
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.AssemblyInfo.cs
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.csproj.CoreCompileInputs.cache
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsPr.A264E135.Up2Date
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\refint\ClownsProject.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.pdb
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.genruntimeconfig.cache
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ref\ClownsProject.dll
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Assets\Icons\Icons.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Styles\ButtonStyle.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Styles\RadioButtonStyle.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Themes\DarkTheme.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Themes\LightTheme.baml
+C:\Users\МОиБД\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\App.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.exe
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.deps.json
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.runtimeconfig.json
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.pdb
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\DevExpress.Mvvm.UI.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\DevExpress.Mvvm.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.csproj.AssemblyReference.cache
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Assets\Icons\Icons.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Styles\ButtonStyle.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Styles\RadioButtonStyle.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Themes\DarkTheme.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Themes\LightTheme.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addPostPage.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addStatusPage.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\adminPage.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\authPage.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createProject.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createTaskPage.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\projectPage.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\ProjectUserControl.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrCompanyPage.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrEmployPage.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrPage.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showProjectsPage.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskControll.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskPage.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject_MarkupCompile.cache
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject_MarkupCompile.lref
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\App.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addPostPage.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addStatusPage.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\adminPage.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\authPage.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createProject.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createTaskPage.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\projectPage.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\ProjectUserControl.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrCompanyPage.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrEmployPage.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrPage.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showProjectsPage.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskControll.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskPage.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.g.resources
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.AssemblyInfoInputs.cache
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.AssemblyInfo.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.csproj.CoreCompileInputs.cache
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsPr.A264E135.Up2Date
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\refint\ClownsProject.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.pdb
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.genruntimeconfig.cache
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ref\ClownsProject.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\AuthWindow.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\RegistrationWindow.g.cs
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ControlzEx.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\AuthWindow.baml
+C:\Users\Ri\Desktop\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\RegistrationWindow.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.exe
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.deps.json
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.runtimeconfig.json
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.pdb
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ControlzEx.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\DevExpress.Mvvm.UI.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\DevExpress.Mvvm.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.csproj.AssemblyReference.cache
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Assets\Icons\Icons.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Styles\ButtonStyle.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Styles\RadioButtonStyle.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Themes\DarkTheme.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Themes\LightTheme.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\AuthWindow.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\RegistrationWindow.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addPostPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addStatusPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\adminPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\authPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createProject.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createTaskPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\projectPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\ProjectUserControl.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrCompanyPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrEmployPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showProjectsPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskControll.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject_MarkupCompile.cache
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject_MarkupCompile.lref
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\App.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\AuthWindow.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\RegistrationWindow.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addPostPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addStatusPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\adminPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\authPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createProject.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createTaskPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\projectPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\ProjectUserControl.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrCompanyPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrEmployPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showProjectsPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskControll.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.g.resources
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.AssemblyInfoInputs.cache
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.AssemblyInfo.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.csproj.CoreCompileInputs.cache
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsPr.A264E135.Up2Date
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\refint\ClownsProject.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.pdb
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.genruntimeconfig.cache
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ref\ClownsProject.dll
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\deleteEmployeePage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\deleteEmployeePage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\editTaskPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\editTaskPage.baml
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showAllInfoTaskPage.g.cs
+C:\Users\МОиБД\Desktop\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showAllInfoTaskPage.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.exe
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.deps.json
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.runtimeconfig.json
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.pdb
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ControlzEx.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\DevExpress.Mvvm.UI.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\DevExpress.Mvvm.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.csproj.AssemblyReference.cache
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Assets\Icons\Icons.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Styles\ButtonStyle.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Styles\RadioButtonStyle.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Themes\DarkTheme.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Themes\LightTheme.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\AuthWindow.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\RegistrationWindow.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addPostPage.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addStatusPage.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\adminPage.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\authPage.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createProject.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createTaskPage.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\deleteEmployeePage.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\editTaskPage.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\projectPage.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\ProjectUserControl.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrCompanyPage.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrEmployPage.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrPage.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showAllInfoTaskPage.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showProjectsPage.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\statisticPage.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskControll.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskPage.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject_MarkupCompile.cache
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject_MarkupCompile.lref
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\App.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\AuthWindow.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\RegistrationWindow.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addPostPage.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addStatusPage.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\adminPage.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\authPage.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createProject.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createTaskPage.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\deleteEmployeePage.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\editTaskPage.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\projectPage.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\ProjectUserControl.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrCompanyPage.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrEmployPage.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrPage.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showAllInfoTaskPage.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showProjectsPage.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\statisticPage.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskControll.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskPage.baml
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.g.resources
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.AssemblyInfoInputs.cache
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.AssemblyInfo.cs
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.csproj.CoreCompileInputs.cache
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsPr.A264E135.Up2Date
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\refint\ClownsProject.dll
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.pdb
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.genruntimeconfig.cache
+C:\Users\Ri\Desktop\ПРоект\Групповой проект\Групповой проект\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ref\ClownsProject.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.exe
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.deps.json
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.runtimeconfig.json
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ClownsProject.pdb
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\ControlzEx.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\DevExpress.Mvvm.UI.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\DevExpress.Mvvm.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Assets\Icons\Icons.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Styles\ButtonStyle.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Styles\RadioButtonStyle.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Themes\DarkTheme.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Themes\LightTheme.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\AuthWindow.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\RegistrationWindow.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addPostPage.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addStatusPage.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\adminPage.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\authPage.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createProject.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createTaskPage.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\deleteEmployeePage.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\editTaskPage.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\projectPage.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\ProjectUserControl.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrCompanyPage.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrEmployPage.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrPage.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showAllInfoTaskPage.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showProjectsPage.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\statisticPage.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskControll.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskPage.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject_MarkupCompile.cache
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject_MarkupCompile.lref
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\App.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\AuthWindow.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\RegistrationWindow.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addPostPage.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\addStatusPage.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\adminPage.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\authPage.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createProject.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\createTaskPage.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\deleteEmployeePage.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\editTaskPage.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\projectPage.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\ProjectUserControl.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrCompanyPage.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrEmployPage.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\registrPage.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showAllInfoTaskPage.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\showProjectsPage.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\statisticPage.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskControll.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\Views\TaskPage.baml
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.g.resources
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.AssemblyInfo.cs
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.csproj.CopyComplete
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\refint\ClownsProject.dll
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.pdb
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ClownsProject.genruntimeconfig.cache
+C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\ref\ClownsProject.dll

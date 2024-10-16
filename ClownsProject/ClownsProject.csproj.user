@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AuthWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RegistrationWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\adminPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\createTaskPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\createProject.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\DeleteEmployeePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\editTaskPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\projectPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\showAllInfoTaskPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\showProjectsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\statisticPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\TaskControll.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AuthWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RegistrationWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\adminPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\createTaskPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\createProject.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\deleteEmployeePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\editTaskPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\projectPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ProjectUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\showAllInfoTaskPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\showProjectsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\statisticPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\TaskControll.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\TaskPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
