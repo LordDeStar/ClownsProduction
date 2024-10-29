@@ -12,12 +12,12 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Никита\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Никита\\.nuget\\packages",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      "C:\\Users\\МОиБД\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\МОиБД\\.nuget\\packages"
     ],
     "configProperties": {
       "System.Reflection.NullabilityInfoContext.IsSupported": true,
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
     }
   }

@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Никита\Desktop\ClownsProject\ClownsProject\obj\Debug\net7.0-windows\
+C:\Users\МОиБД\Desktop\ClownsProduction\ClownsProject\obj\Debug\net7.0-windows\
 ClownsProject
 none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-C:\Users\Никита\Desktop\ClownsProject\ClownsProject\App.xaml
+C:\Users\МОиБД\Desktop\ClownsProduction\ClownsProject\App.xaml
 26-644504676
 
 41235386474
-223-1974277944
+2232018883425
 Assets\Icons\Icons.xaml;AuthWindow.xaml;MainWindow.xaml;RegistrationWindow.xaml;Styles\ButtonStyle.xaml;Styles\RadioButtonStyle.xaml;Themes\DarkTheme.xaml;Themes\LightTheme.xaml;Views\addPostPage.xaml;Views\addStatusPage.xaml;Views\adminPage.xaml;Views\authPage.xaml;Views\createProject.xaml;Views\createTaskPage.xaml;Views\deleteEmployeePage.xaml;Views\editTaskPage.xaml;Views\projectPage.xaml;Views\ProjectUserControl.xaml;Views\registrCompanyPage.xaml;Views\registrEmployPage.xaml;Views\registrPage.xaml;Views\showAllInfoTaskPage.xaml;Views\showProjectsPage.xaml;Views\statisticPage.xaml;Views\TaskControll.xaml;Views\TaskPage.xaml;
 
 False

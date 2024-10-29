@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using ClownsProject.Models;
 using Microsoft.Extensions.Configuration;
 using System.IO;
+using System.Configuration.Provider;
 
 namespace ClownsProject;
 
@@ -34,9 +35,8 @@ public partial class MortalkombatContext : DbContext
     {
         var builder = new ConfigurationBuilder();
         builder.SetBasePath(Directory.GetCurrentDirectory());
-        builder.AddJsonFile("config.json");
         var config = builder.Build();
-        string connectionString = config.GetConnectionString("DefaultConnection");
+        string connectionString = "Server=localhost;Database=mortalkombat;User Id=root;Password=1234;";
         #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
         optionsBuilder.UseMySql(connectionString, Microsoft.EntityFrameworkCore.ServerVersion.Parse("8.0.35-mysql"));
     }

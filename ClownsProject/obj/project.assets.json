@@ -1490,24 +1490,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Никита\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\МОиБД\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Никита\\Desktop\\ClownsProject\\ClownsProject\\ClownsProject.csproj",
+      "projectUniqueName": "C:\\Users\\МОиБД\\Desktop\\ClownsProduction\\ClownsProject\\ClownsProject.csproj",
       "projectName": "ClownsProject",
-      "projectPath": "C:\\Users\\Никита\\Desktop\\ClownsProject\\ClownsProject\\ClownsProject.csproj",
-      "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Никита\\Desktop\\ClownsProject\\ClownsProject\\obj\\",
+      "projectPath": "C:\\Users\\МОиБД\\Desktop\\ClownsProduction\\ClownsProject\\ClownsProject.csproj",
+      "packagesPath": "C:\\Users\\МОиБД\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\МОиБД\\Desktop\\ClownsProduction\\ClownsProject\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Никита\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\МОиБД\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1527,6 +1522,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1589,7 +1589,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
