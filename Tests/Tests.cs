@@ -1,5 +1,6 @@
 using ClownsProject.Controllers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Xml.Serialization;
 
 namespace Tests
 {
@@ -39,19 +40,29 @@ namespace Tests
             string pass = "";
             Assert.IsFalse(UserController.Authorization(login, pass));
         }
-
         [TestMethod]
-        public void Test5_DeletingUserWithCorrectInput()
+        public void Test5_DeleteUserWithTask()
         {
+            DateOnly start = DateOnly.FromDateTime(DateTime.Now);
+            DateOnly end = DateOnly.FromDateTime(DateTime.Now);
+            string login = "lorddestar";
+            TaskController.AddTask("test", "test", login, start, end, "тест", "test");
+            Assert.IsFalse(UserController.Delete(login));
+        }
+        [TestMethod]
+        public void Test6_DeletingUserWithCorrectInput()
+        {
+            TaskController.ChangeStatus("выполнена", 1);
             string login = "lorddestar";
             Assert.IsTrue(UserController.Delete(login));
         }
 
         [TestMethod]
-        public void Test6_DeletingUserWithIncorrectInput()
+        public void Test7_DeletingUserWithIncorrectInput()
         {
             string login = "lorddestar";
             Assert.IsFalse(UserController.Delete(login));
         }
+        
     }
 }

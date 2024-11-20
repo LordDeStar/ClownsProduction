@@ -11,24 +11,36 @@
       "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\data\\mortalkombatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\data\\mortalkombatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|c:\\users\\\u043C\u043E\u0438\u0431\u0434\\desktop\\clownsproduction\\clownsproject\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\views\\taskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\views\\taskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\views\\createtaskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\views\\createtaskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\views\\createtaskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\views\\createtaskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\views\\taskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -118,14 +130,6 @@
       "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\views\\registremploypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\views\\createtaskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\views\\createtaskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\views\\createtaskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\views\\createtaskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\views\\projectusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\views\\projectusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -160,10 +164,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\views\\addstatuspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\views\\addstatuspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|solutionrelative:clownsproject\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{435587C3-3E4C-472E-A472-1292B286BB2A}|ClownsProject\\ClownsProject.csproj|C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\clownsproject\\views\\deleteemployeepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -251,25 +251,14 @@
               "RelativeDocumentMoniker": "Tests\\Tests.cs",
               "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\Tests\\Tests.cs",
               "RelativeToolTip": "Tests\\Tests.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T07:21:56.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TaskPage.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\TaskPage.xaml",
-              "RelativeDocumentMoniker": "ClownsProject\\Views\\TaskPage.xaml",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\TaskPage.xaml",
-              "RelativeToolTip": "ClownsProject\\Views\\TaskPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-17T16:48:29.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "TaskPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\TaskPage.xaml.cs",
               "RelativeDocumentMoniker": "ClownsProject\\Views\\TaskPage.xaml.cs",
@@ -277,79 +266,33 @@
               "RelativeToolTip": "ClownsProject\\Views\\TaskPage.xaml.cs",
               "ViewState": "AQIAABAAAAAAAAAAAIAwwBsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T16:48:32.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "ClownsProject\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "ClownsProject\\Controllers\\TaskController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAnwBUAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T05:08:41.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PageController.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Controllers\\PageController.cs",
-              "RelativeDocumentMoniker": "ClownsProject\\Controllers\\PageController.cs",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Controllers\\PageController.cs",
-              "RelativeToolTip": "ClownsProject\\Controllers\\PageController.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAADgv3MAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T05:09:02.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "showAllInfoTaskPage.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\showAllInfoTaskPage.xaml",
-              "RelativeDocumentMoniker": "ClownsProject\\Views\\showAllInfoTaskPage.xaml",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\showAllInfoTaskPage.xaml",
-              "RelativeToolTip": "ClownsProject\\Views\\showAllInfoTaskPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-21T08:12:24.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "showProjectsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\showProjectsPage.xaml",
-              "RelativeDocumentMoniker": "ClownsProject\\Views\\showProjectsPage.xaml",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\showProjectsPage.xaml",
-              "RelativeToolTip": "ClownsProject\\Views\\showProjectsPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-17T05:23:29.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MortalkombatContext.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\MortalkombatContext.cs",
-              "RelativeDocumentMoniker": "ClownsProject\\Data\\MortalkombatContext.cs",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\MortalkombatContext.cs",
-              "RelativeToolTip": "ClownsProject\\Data\\MortalkombatContext.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCQAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T05:11:03.371Z",
+              "WhenOpened": "2024-05-17T16:48:32.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\App.xaml.cs",
-              "RelativeDocumentMoniker": "ClownsProject\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\App.xaml.cs",
-              "RelativeToolTip": "ClownsProject\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "ClownsProject\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "ClownsProject\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwDsAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T05:17:53.434Z",
+              "WhenOpened": "2024-05-17T05:08:41.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MortalkombatContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\MortalkombatContext.cs",
+              "RelativeDocumentMoniker": "ClownsProject\\Data\\MortalkombatContext.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\MortalkombatContext.cs",
+              "RelativeToolTip": "ClownsProject\\Data\\MortalkombatContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:11:03.371Z",
               "EditorCaption": ""
             },
             {
@@ -360,167 +303,86 @@
               "RelativeDocumentMoniker": "ClownsProject\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Controllers\\UserController.cs",
               "RelativeToolTip": "ClownsProject\\Controllers\\UserController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAABIAAAAJAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwB4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T05:08:41.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TaskControll.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\TaskControll.xaml.cs",
-              "RelativeDocumentMoniker": "ClownsProject\\Views\\TaskControll.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\TaskControll.xaml.cs",
-              "RelativeToolTip": "ClownsProject\\Views\\TaskControll.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T07:55:20.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TaskControll.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\TaskControll.xaml",
-              "RelativeDocumentMoniker": "ClownsProject\\Views\\TaskControll.xaml",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\TaskControll.xaml",
-              "RelativeToolTip": "ClownsProject\\Views\\TaskControll.xaml",
+              "DocumentIndex": 6,
+              "Title": "createTaskPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\createTaskPage.xaml",
+              "RelativeDocumentMoniker": "ClownsProject\\Views\\createTaskPage.xaml",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\createTaskPage.xaml",
+              "RelativeToolTip": "ClownsProject\\Views\\createTaskPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-17T16:59:32.187Z"
+              "WhenOpened": "2024-05-17T05:08:41.239Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "statisticPage.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\statisticPage.xaml",
-              "RelativeDocumentMoniker": "ClownsProject\\Views\\statisticPage.xaml",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\statisticPage.xaml",
-              "RelativeToolTip": "ClownsProject\\Views\\statisticPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-22T07:21:53.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "statisticPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\statisticPage.xaml.cs",
-              "RelativeDocumentMoniker": "ClownsProject\\Views\\statisticPage.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\statisticPage.xaml.cs",
-              "RelativeToolTip": "ClownsProject\\Views\\statisticPage.xaml.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAApwCkAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "createTaskPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\createTaskPage.xaml.cs",
+              "RelativeDocumentMoniker": "ClownsProject\\Views\\createTaskPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\createTaskPage.xaml.cs",
+              "RelativeToolTip": "ClownsProject\\Views\\createTaskPage.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T07:31:58.806Z"
+              "WhenOpened": "2024-05-21T06:42:37.978Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "editTaskPage.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\editTaskPage.xaml",
-              "RelativeDocumentMoniker": "ClownsProject\\Views\\editTaskPage.xaml",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\editTaskPage.xaml",
-              "RelativeToolTip": "ClownsProject\\Views\\editTaskPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-21T04:37:23.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ClownsProject\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ClownsProject\\MainWindow.xaml.cs",
-              "ViewState": "AQIAANAAAAAAAAAAAIAwwOMAAAA/AAAA",
+              "DocumentIndex": 3,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "ClownsProject\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Services\\TaskService.cs",
+              "RelativeToolTip": "ClownsProject\\Services\\TaskService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T05:08:41.235Z"
+              "WhenOpened": "2024-05-17T05:08:41.239Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Status.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\Models\\Status.cs",
-              "RelativeDocumentMoniker": "ClownsProject\\Data\\Models\\Status.cs",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\Models\\Status.cs",
-              "RelativeToolTip": "ClownsProject\\Data\\Models\\Status.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T07:55:50.942Z"
+              "Title": "showProjectsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\showProjectsPage.xaml",
+              "RelativeDocumentMoniker": "ClownsProject\\Views\\showProjectsPage.xaml",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\showProjectsPage.xaml",
+              "RelativeToolTip": "ClownsProject\\Views\\showProjectsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T05:23:29.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "ClownsProject\\Data\\Models\\Role.cs",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\Models\\Role.cs",
-              "RelativeToolTip": "ClownsProject\\Data\\Models\\Role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T07:55:49.039Z"
+              "DocumentIndex": 14,
+              "Title": "showAllInfoTaskPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\showAllInfoTaskPage.xaml",
+              "RelativeDocumentMoniker": "ClownsProject\\Views\\showAllInfoTaskPage.xaml",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\showAllInfoTaskPage.xaml",
+              "RelativeToolTip": "ClownsProject\\Views\\showAllInfoTaskPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T08:12:24.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\Models\\Task.cs",
-              "RelativeDocumentMoniker": "ClownsProject\\Data\\Models\\Task.cs",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\Models\\Task.cs",
-              "RelativeToolTip": "ClownsProject\\Data\\Models\\Task.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "DocumentIndex": 9,
+              "Title": "PageController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Controllers\\PageController.cs",
+              "RelativeDocumentMoniker": "ClownsProject\\Controllers\\PageController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Controllers\\PageController.cs",
+              "RelativeToolTip": "ClownsProject\\Controllers\\PageController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAADgv3MAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T05:08:41.237Z"
+              "WhenOpened": "2024-05-17T05:09:02.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "showAllInfoTaskPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\showAllInfoTaskPage.xaml.cs",
-              "RelativeDocumentMoniker": "ClownsProject\\Views\\showAllInfoTaskPage.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\showAllInfoTaskPage.xaml.cs",
-              "RelativeToolTip": "ClownsProject\\Views\\showAllInfoTaskPage.xaml.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAtwBYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T08:17:50.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProjectController.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Controllers\\ProjectController.cs",
-              "RelativeDocumentMoniker": "ClownsProject\\Controllers\\ProjectController.cs",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Controllers\\ProjectController.cs",
-              "RelativeToolTip": "ClownsProject\\Controllers\\ProjectController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T08:22:06.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "XamlReader.cs",
-              "DocumentMoniker": "C:\\Users\\Ri\\AppData\\Local\\Temp\\.vsdbgsrc\\6c61f992efe090b0e3dc2069cb691497edb91b0abe79cedfba804baedef8b9f9\\XamlReader.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Ri\\AppData\\Local\\Temp\\.vsdbgsrc\\6c61f992efe090b0e3dc2069cb691497edb91b0abe79cedfba804baedef8b9f9\\XamlReader.cs",
-              "ToolTip": "C:\\Users\\Ri\\AppData\\Local\\Temp\\.vsdbgsrc\\6c61f992efe090b0e3dc2069cb691497edb91b0abe79cedfba804baedef8b9f9\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
-              "RelativeToolTip": "..\\..\\..\\Ri\\AppData\\Local\\Temp\\.vsdbgsrc\\6c61f992efe090b0e3dc2069cb691497edb91b0abe79cedfba804baedef8b9f9\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
-              "ViewState": "AQIAAFQBAAAAAAAAAAAtwGMBAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T07:50:30.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "TaskStatistics.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\Models\\TaskStatistics.cs",
-              "RelativeDocumentMoniker": "ClownsProject\\Data\\Models\\TaskStatistics.cs",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\Models\\TaskStatistics.cs",
-              "RelativeToolTip": "ClownsProject\\Data\\Models\\TaskStatistics.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T07:40:56.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "projectPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\projectPage.xaml.cs",
               "RelativeDocumentMoniker": "ClownsProject\\Views\\projectPage.xaml.cs",
@@ -532,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "projectPage.xaml",
               "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\projectPage.xaml",
               "RelativeDocumentMoniker": "ClownsProject\\Views\\projectPage.xaml",
@@ -543,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "editTaskPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\editTaskPage.xaml.cs",
               "RelativeDocumentMoniker": "ClownsProject\\Views\\editTaskPage.xaml.cs",
@@ -555,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "adminPage.xaml",
               "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\adminPage.xaml",
               "RelativeDocumentMoniker": "ClownsProject\\Views\\adminPage.xaml",
@@ -566,30 +428,183 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "createTaskPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\createTaskPage.xaml.cs",
-              "RelativeDocumentMoniker": "ClownsProject\\Views\\createTaskPage.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\createTaskPage.xaml.cs",
-              "RelativeToolTip": "ClownsProject\\Views\\createTaskPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T06:42:37.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "createTaskPage.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\createTaskPage.xaml",
-              "RelativeDocumentMoniker": "ClownsProject\\Views\\createTaskPage.xaml",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\createTaskPage.xaml",
-              "RelativeToolTip": "ClownsProject\\Views\\createTaskPage.xaml",
+              "DocumentIndex": 10,
+              "Title": "TaskPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\TaskPage.xaml",
+              "RelativeDocumentMoniker": "ClownsProject\\Views\\TaskPage.xaml",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\TaskPage.xaml",
+              "RelativeToolTip": "ClownsProject\\Views\\TaskPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-17T05:08:41.239Z"
+              "WhenOpened": "2024-05-17T16:48:29.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ClownsProject\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\App.xaml.cs",
+              "RelativeToolTip": "ClownsProject\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:17:53.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskControll.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\TaskControll.xaml.cs",
+              "RelativeDocumentMoniker": "ClownsProject\\Views\\TaskControll.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\TaskControll.xaml.cs",
+              "RelativeToolTip": "ClownsProject\\Views\\TaskControll.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:55:20.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskControll.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\TaskControll.xaml",
+              "RelativeDocumentMoniker": "ClownsProject\\Views\\TaskControll.xaml",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\TaskControll.xaml",
+              "RelativeToolTip": "ClownsProject\\Views\\TaskControll.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T16:59:32.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "statisticPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\statisticPage.xaml",
+              "RelativeDocumentMoniker": "ClownsProject\\Views\\statisticPage.xaml",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\statisticPage.xaml",
+              "RelativeToolTip": "ClownsProject\\Views\\statisticPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T07:21:53.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "statisticPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\statisticPage.xaml.cs",
+              "RelativeDocumentMoniker": "ClownsProject\\Views\\statisticPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\statisticPage.xaml.cs",
+              "RelativeToolTip": "ClownsProject\\Views\\statisticPage.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAApwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:31:58.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "editTaskPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\editTaskPage.xaml",
+              "RelativeDocumentMoniker": "ClownsProject\\Views\\editTaskPage.xaml",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\editTaskPage.xaml",
+              "RelativeToolTip": "ClownsProject\\Views\\editTaskPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T04:37:23.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClownsProject\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ClownsProject\\MainWindow.xaml.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAIAwwOMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:08:41.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "ClownsProject\\Data\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\Models\\Status.cs",
+              "RelativeToolTip": "ClownsProject\\Data\\Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:55:50.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "ClownsProject\\Data\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\Models\\Role.cs",
+              "RelativeToolTip": "ClownsProject\\Data\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:55:49.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "ClownsProject\\Data\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\Models\\Task.cs",
+              "RelativeToolTip": "ClownsProject\\Data\\Models\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:08:41.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "showAllInfoTaskPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\showAllInfoTaskPage.xaml.cs",
+              "RelativeDocumentMoniker": "ClownsProject\\Views\\showAllInfoTaskPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\showAllInfoTaskPage.xaml.cs",
+              "RelativeToolTip": "ClownsProject\\Views\\showAllInfoTaskPage.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAtwBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:17:50.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "ClownsProject\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "ClownsProject\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:22:06.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\Ri\\AppData\\Local\\Temp\\.vsdbgsrc\\6c61f992efe090b0e3dc2069cb691497edb91b0abe79cedfba804baedef8b9f9\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Ri\\AppData\\Local\\Temp\\.vsdbgsrc\\6c61f992efe090b0e3dc2069cb691497edb91b0abe79cedfba804baedef8b9f9\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\Ri\\AppData\\Local\\Temp\\.vsdbgsrc\\6c61f992efe090b0e3dc2069cb691497edb91b0abe79cedfba804baedef8b9f9\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\Ri\\AppData\\Local\\Temp\\.vsdbgsrc\\6c61f992efe090b0e3dc2069cb691497edb91b0abe79cedfba804baedef8b9f9\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAFQBAAAAAAAAAAAtwGMBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:50:30.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TaskStatistics.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\Models\\TaskStatistics.cs",
+              "RelativeDocumentMoniker": "ClownsProject\\Data\\Models\\TaskStatistics.cs",
+              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Data\\Models\\TaskStatistics.cs",
+              "RelativeToolTip": "ClownsProject\\Data\\Models\\TaskStatistics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:40:56.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "registrEmployPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\registrEmployPage.xaml.cs",
               "RelativeDocumentMoniker": "ClownsProject\\Views\\registrEmployPage.xaml.cs",
@@ -601,7 +616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "addPostPage.xaml",
               "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\addPostPage.xaml",
               "RelativeDocumentMoniker": "ClownsProject\\Views\\addPostPage.xaml",
@@ -612,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "registrEmployPage.xaml",
               "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\registrEmployPage.xaml",
               "RelativeDocumentMoniker": "ClownsProject\\Views\\registrEmployPage.xaml",
@@ -623,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ProjectUserControl.xaml",
               "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\ProjectUserControl.xaml",
               "RelativeDocumentMoniker": "ClownsProject\\Views\\ProjectUserControl.xaml",
@@ -634,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "registrPage.xaml",
               "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\registrPage.xaml",
               "RelativeDocumentMoniker": "ClownsProject\\Views\\registrPage.xaml",
@@ -645,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "registrCompanyPage.xaml",
               "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\registrCompanyPage.xaml",
               "RelativeDocumentMoniker": "ClownsProject\\Views\\registrCompanyPage.xaml",
@@ -656,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "addStatusPage.xaml",
               "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\addStatusPage.xaml",
               "RelativeDocumentMoniker": "ClownsProject\\Views\\addStatusPage.xaml",
@@ -667,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "authPage.xaml",
               "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\authPage.xaml",
               "RelativeDocumentMoniker": "ClownsProject\\Views\\authPage.xaml",
@@ -678,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "createProject.xaml",
               "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\createProject.xaml",
               "RelativeDocumentMoniker": "ClownsProject\\Views\\createProject.xaml",
@@ -689,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "deleteEmployeePage.xaml",
               "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\deleteEmployeePage.xaml",
               "RelativeDocumentMoniker": "ClownsProject\\Views\\deleteEmployeePage.xaml",
@@ -700,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "addStatusPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Views\\addStatusPage.xaml.cs",
               "RelativeDocumentMoniker": "ClownsProject\\Views\\addStatusPage.xaml.cs",
@@ -804,18 +819,6 @@
               "RelativeToolTip": "ClownsProject\\AuthWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-17T16:11:12.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "TaskService.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Services\\TaskService.cs",
-              "RelativeDocumentMoniker": "ClownsProject\\Services\\TaskService.cs",
-              "ToolTip": "C:\\Users\\\u041C\u041E\u0438\u0411\u0414\\Desktop\\ClownsProduction\\ClownsProject\\Services\\TaskService.cs",
-              "RelativeToolTip": "ClownsProject\\Services\\TaskService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAnwCgAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T05:08:41.239Z"
             },
             {
               "$type": "Document",

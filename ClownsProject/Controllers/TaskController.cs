@@ -50,9 +50,9 @@ namespace ClownsProject.Controllers
                 MessageBox.Show("Дата страта задачи должна быть больше либо равна текущей дате!", "Ошибка");
                 return;
             }
-            if (dateEnd <= dateStart)
+            if (dateEnd < dateStart)
             {
-                MessageBox.Show("Дедлайн не может настпить раньше постановки задачи или в этот же день!", "Ошибка");
+                MessageBox.Show("Дедлайн не может настпить раньше постановки задачи!", "Ошибка");
                 return;
             }
             if (statusId == 0)

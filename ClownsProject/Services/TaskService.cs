@@ -14,7 +14,14 @@ namespace ClownsProject.Services
         {
             using (var db = new MortalkombatContext())
             {
-                return db.Tasks.OrderBy(t => t.IdTask).Last().IdTask + 1;
+                try
+                {
+                    return db.Tasks.OrderBy(t => t.IdTask).Last().IdTask + 1;
+                }
+                catch (Exception ex)
+                {
+                    return 1;
+                }
             }
         }
         public static List<Models.Task> GetTasks()
