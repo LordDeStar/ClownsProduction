@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\МОиБД\\Desktop\\ClownsProduction\\Tests\\Tests.csproj": {}
+    "C:\\Users\\LordDeStar\\Desktop\\ClownsProduction\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\МОиБД\\Desktop\\ClownsProduction\\ClownsProject\\ClownsProject.csproj": {
+    "C:\\Users\\LordDeStar\\Desktop\\ClownsProduction\\ClownsProject\\ClownsProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\МОиБД\\Desktop\\ClownsProduction\\ClownsProject\\ClownsProject.csproj",
+        "projectUniqueName": "C:\\Users\\LordDeStar\\Desktop\\ClownsProduction\\ClownsProject\\ClownsProject.csproj",
         "projectName": "ClownsProject",
-        "projectPath": "C:\\Users\\МОиБД\\Desktop\\ClownsProduction\\ClownsProject\\ClownsProject.csproj",
-        "packagesPath": "C:\\Users\\МОиБД\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\МОиБД\\Desktop\\ClownsProduction\\ClownsProject\\obj\\",
+        "projectPath": "C:\\Users\\LordDeStar\\Desktop\\ClownsProduction\\ClownsProject\\ClownsProject.csproj",
+        "packagesPath": "C:\\Users\\LordDeStar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LordDeStar\\Desktop\\ClownsProduction\\ClownsProject\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\МОиБД\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LordDeStar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -101,21 +106,25 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\МОиБД\\Desktop\\ClownsProduction\\Tests\\Tests.csproj": {
+    "C:\\Users\\LordDeStar\\Desktop\\ClownsProduction\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\МОиБД\\Desktop\\ClownsProduction\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\LordDeStar\\Desktop\\ClownsProduction\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\МОиБД\\Desktop\\ClownsProduction\\Tests\\Tests.csproj",
-        "packagesPath": "C:\\Users\\МОиБД\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\МОиБД\\Desktop\\ClownsProduction\\Tests\\obj\\",
+        "projectPath": "C:\\Users\\LordDeStar\\Desktop\\ClownsProduction\\Tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\LordDeStar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LordDeStar\\Desktop\\ClownsProduction\\Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\МОиБД\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LordDeStar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -123,14 +132,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Users\\МОиБД\\Desktop\\ClownsProduction\\ClownsProject\\ClownsProject.csproj": {
-                "projectPath": "C:\\Users\\МОиБД\\Desktop\\ClownsProduction\\ClownsProject\\ClownsProject.csproj"
+              "C:\\Users\\LordDeStar\\Desktop\\ClownsProduction\\ClownsProject\\ClownsProject.csproj": {
+                "projectPath": "C:\\Users\\LordDeStar\\Desktop\\ClownsProduction\\ClownsProject\\ClownsProject.csproj"
               }
             }
           }
@@ -183,7 +193,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
